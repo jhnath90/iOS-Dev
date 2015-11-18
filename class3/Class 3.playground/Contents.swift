@@ -10,7 +10,7 @@ import UIKit
 //    }
 //}
 //
-//isHandsome("Tom")
+//isHandsome("Billy")
 //print(isHandsome("Zack"))
 
 
@@ -33,7 +33,7 @@ import UIKit
 //    print(age)
 //}
 //
-//person(firstname: "Lee", age: 25, eyeColor: "blue", hometown: "Houston")
+//person(firstname: "Josh", age: 24, eyeColor: "brown", hometown: "St. Marys")
 
 //Tuple
 
@@ -51,7 +51,7 @@ import UIKit
 //    return character
 //}
 //
-//let result = isCharacter("Lee")
+//let result = isCharacter("Josh")
 //result.found
 //result.description
 
